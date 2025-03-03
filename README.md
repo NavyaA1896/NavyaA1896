@@ -1,4 +1,8 @@
-## Hi there 👋 I am Navya A
+### Hi there! 👋 I'm Navya A  
+🚀 **AI & Open Source Enthusiast | Software Developer** 
+🔭 **Currently working on**:  
+- Risk-Based proctoring system for online assessments 
+- OpenStack NLP-powered search engine
 # 💫 About Me:
 I'm currently a Student of 3rd year<br>I'm currently learning Gen AI
 
