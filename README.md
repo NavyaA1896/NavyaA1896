@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Navya A  
-🚀 **AI & Open Source Enthusiast | Software Developer** 
-###🔭 **Currently working on**:  
+🚀 **AI & Open Source Enthusiast | Software Developer** <br>
+🔭 **Currently working on**:  
 - Risk-Based proctoring system for online assessments 
 - OpenStack NLP-powered search engine
 # 💫 About Me:
