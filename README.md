@@ -4,7 +4,7 @@
 - Risk-Based proctoring system for online assessments 
 - OpenStack NLP-powered search engine
 # 💫 About Me:
-I'm currently a Student of 3rd year<br>I'm currently learning Gen AI
+I'm currently a Student of 3rd year<br>I'm currently learning Data preprocessing techniques
 
 
 ## 🌐 Socials:
